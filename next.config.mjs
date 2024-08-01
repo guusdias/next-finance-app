@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 
-const nextConfig = {};
-
-export default nextConfig;
+// next.config.mjs
+export default {
+  experimental: {
+    pprPreview: true, // Mantenha esta linha se estiver usando a funcionalidade experimental
+  },
+  // Outras configurações
+};
