@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@heroicons/react':
-        specifier: ^2.1.4
+        specifier: ^2.1.5
         version: 2.1.5(react@18.2.0)
       '@tailwindcss/forms':
         specifier: ^0.5.7
@@ -48,7 +48,7 @@ importers:
         specifier: 5.5.2
         version: 5.5.2
       use-debounce:
-        specifier: ^10.0.1
+        specifier: ^10.0.2
         version: 10.0.2(react@18.2.0)
       zod:
         specifier: ^3.23.8
